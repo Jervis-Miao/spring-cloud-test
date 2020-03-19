@@ -1,0 +1,7 @@
+server:
+  port: 8000
+eureka:
+  client:
+    registerWithEureka: false #仅仅作为客户端
+    serviceUrl:
+      defaultZone: http://localhost:3000/eureka/ #eureka服务端提供的注册地址 参考服务端配置的这个路径

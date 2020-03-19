@@ -18,7 +18,7 @@
 
     <modules>
         <module>netflix-server</module>
-        <module>netflix-client-user</module>
+        <module>netflix-client-client</module>
         <module>netfix-client-prod</module>
         <module>netfix-client-prod1</module>
     </modules>
